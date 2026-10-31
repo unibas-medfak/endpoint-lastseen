@@ -1,0 +1,4 @@
+target/
+endpoint-lastseen.json
+.idea/
+*.iml
